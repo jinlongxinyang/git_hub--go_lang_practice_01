@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 import (
-	calc_lib "calculater/calc_lib"
+	calc_lib "calculater/calc_lib/calc_lib_01"
 )
 
 func main() {
